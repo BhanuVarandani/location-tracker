@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: darkgoldenrod;
+}
+.box1{
+    height: 90%;
+    width: 23%;
+    background-color: white;
+    position: absolute;
+    left: 34%;
+margin-top: 2%;
+border-radius: 25px;
+}
+img{
+    height: 85%;
+    width: 97%;
+    position: absolute;
+    object-fit: cover;
+    margin-top: 1%;
+    left: 1%;
+    border-radius: 10px;
+}
+.button1{
+    padding: 9px 90px;
+    border-radius: 25px;
+
+    position: absolute;
+    margin-top: 3%;
+    left: 36%;
+    border: none;
+    gap: 30px;
+}
+.one{
+    font-size: 13px;
+    position: absolute;
+    margin-top: 40%;
+    left: 35%;
+}
+.two{
+    font-size: 13px;
+    position: absolute;
+    margin-top: 40%;
+    left: 39%;
+}
+
+.three{
+    font-size: 13px;
+    position: absolute;
+    margin-top: 40%;
+    left: 43%;
+}
+.four{
+    font-size: 13px;
+    position: absolute;
+    margin-top: 40%;
+    left: 47%;
+}
+.five{
+    font-size: 13px;
+    position: absolute;
+    margin-top: 40%;
+    left: 53%;
+}
